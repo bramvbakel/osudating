@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>osudating | osu!</title>
+</head>
+
+<body>
+  <h1>osu! Game</h1>
+  <p>osu! is a populair rhythm game, bla bla bla... <br> you already know about it. <br> Here are some useful links for the game.</p>
+  <p><a href="https://osu.ppy.sh" target="_blank">The main site</a> here you can install the game, make an accounts, check scores and talk with the community.<br>
+  <a href="https://github.com/ppy/osu#running-osu" target="_blank">osu!lazer</a> this is a new version of osu! It's made from the ground up and has a lot of new features,<br>
+  if you want to know more about it you can also check this <a href="https://www.youtube.com/watch?v=ut_SOreClcc" target="_blank">Youtube video</a>.</p>
+
+  <h2>Social Media</h2>
+  <p><a href="https://www.reddit.com/r/osugame/" target="_blank">The osugame subreddit</a> here you can talk with a part of the community.<br>
+  <a href="https://www.twitch.tv/osulive" target="_blank">The official Twitch page</a> here you can watch livestreams of official tourneys.<br>
+  <a href="https://twitter.com/osugame" target="_blank">The official twitter page</a> for updates about the game and general information.<br>
+  <a href="https://status.ppy.sh" target="_blank">osu! server status</a> for people who want to know if the server is up and running.</p>
+  
+  <br><br>
+  <p>I will add more stuff later, I know barely anything about osu!<br>
+    Try lazer it's pretty decent and has some fun gamerules to play.<br>
+    <br>
+  <a href="https://osudating.eu">Return to the homepage</a></p>
+</body>
+</html>
